@@ -1,15 +1,9 @@
 ---
-author:
-  - avatar:
-      src: 'https://pbs.twimg.com/media/CWjRKnHU8AAJpkI.jpg'
-      width: 600
-      height: 600
-related: []
-publisher:
-  url: 'https://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - whyisocial
   - http
@@ -22,19 +16,27 @@ keywords:
   - tweet
   - cbarrows
 description: 'The latest Tweets from Christin Kardos (@ChristinKardos). Beer & bacon analyst, ♥ #Marines, aka クリス / Tink, #Digital Cheerleader/ #CMGR w/ @convince, @SBizHour | Mod #CMGRHangout #CloudTalk. Fort Worth, TX'
-inLanguage: en
+datePublished: '2015-12-19T16:59:33.816Z'
+dateModified: '2015-12-19T16:59:25.769Z'
+author:
+  - avatar:
+      src: 'https://pbs.twimg.com/media/CWjRKnHU8AAJpkI.jpg'
+      width: 600
+      height: 600
+related: []
 app_links: []
-isBasedOnUrl: 'https://twitter.com/ChristinKardos'
-datePublished: '2015-12-19T16:38:33.372Z'
-dateModified: '2015-12-19T16:38:13.103Z'
 title: ''
 sourcePath: _posts/2015-12-19-the-latest-tweets-from-christin-kardos-christinkardos-be.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'https://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: the-latest-tweets-from-christin-kardos-christinkardos-be/index.html
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> The latest Tweets from Christin Kardos &lpar;&commat;ChristinKardos&rpar;&period; Beer & bacon analyst&comma; ♥ &num;Marines&comma; aka クリス &sol; Tink&comma; &num;Digital Cheerleader&sol; &num;CMGR w&sol; &commat;convince&comma; &commat;SBizHour &vert; Mod &num;CMGRHangout &num;CloudTalk&period; Fort Worth&comma; TX
+> The latest Tweets from Christin Kardos (@ChristinKardos). Beer & bacon analyst, ♥ \#Marines, aka クリス / Tink, \#Digital Cheerleader/ \#CMGR w/ @convince, @SBizHour | Mod \#CMGRHangout \#CloudTalk. Fort Worth, TX
