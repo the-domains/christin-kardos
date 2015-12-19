@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/ChristinKardos'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - whyisocial
   - http
@@ -17,8 +17,8 @@ keywords:
   - tweet
   - cbarrows
 description: 'The latest Tweets from Christin Kardos (@ChristinKardos). Beer & bacon analyst, ♥ #Marines, aka クリス / Tink, #Digital Cheerleader/ #CMGR w/ @convince, @SBizHour | Mod #CMGRHangout #CloudTalk. Fort Worth, TX'
-datePublished: '2015-12-19T17:29:06.418Z'
-dateModified: '2015-12-19T17:28:59.266Z'
+datePublished: '2015-12-19T17:51:15.519Z'
+dateModified: '2015-12-19T17:51:11.080Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/media/CWjRKnHU8AAJpkI.jpg'
