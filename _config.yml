@@ -1,0 +1,28 @@
+name: Christin Kardos
+favicon: null
+layout_spectrum: 0.2639366346411407
+typography_spectrum: 0.06843468453735113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31975058233365417
+  lightness: 0.7729063401930034
+  saturation: 0.35375845176167786
+  rhythmicContrast: 0.18888669670559466
+purpose: []
