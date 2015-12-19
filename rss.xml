@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Digital Cheerleader]]></title>
-        <description><![CDATA[Digital Cheerleader]]></description>
+        <title><![CDATA[Christin Kardos: Digital Cheerleader]]></title>
+        <description><![CDATA[Christin Kardos: Digital Cheerleader]]></description>
         <link>https://thegrid.ai/christin-kardos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 16:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 16:59:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christin-kardos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Christin Kardos (@ChristinKardos). Beer & bacon analyst, ♥ #Marines, aka クリス / Tink, #Digital Cheerleader/ #CMGR w/ @convince, @SBizHour | Mod #CMGRHangout #CloudTalk. Fort Worth, TX</p>]]></description>
-            <link>https://twitter.com/ChristinKardos</link>
+            <link>https://thegrid.ai/christin-kardos/the-latest-tweets-from-christin-kardos-christinkardos-be/index.html</link>
             <guid isPermaLink="false">88fdd60c-bf62-4f74-b237-c4f96326e50a</guid>
-            <pubDate>Sat, 19 Dec 2015 16:38:33 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 16:59:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
