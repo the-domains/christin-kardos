@@ -4,7 +4,7 @@
         <description><![CDATA[Christin Kardos]]></description>
         <link>https://thegrid.ai/christin-kardos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 16:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 16:38:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christin-kardos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It's a test, you guys. ]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 19 Dec 2015 16:29:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Christin Kardos (@ChristinKardos). Beer & bacon analyst, ♥ #Marines, aka クリス / Tink, #Digital Cheerleader/ #CMGR w/ @convince, @SBizHour | Mod #CMGRHangout #CloudTalk. Fort Worth, TX</p>]]></description>
+            <link>https://twitter.com/ChristinKardos</link>
+            <guid isPermaLink="false">88fdd60c-bf62-4f74-b237-c4f96326e50a</guid>
+            <pubDate>Sat, 19 Dec 2015 16:38:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Testing.]]></title>
-            <description><![CDATA[<h1>Testing.</h1>]]></description>
+            <description><![CDATA[<article><h1>Testing.</h1><p>This is a total test post. </p></article>]]></description>
             <link>https://thegrid.ai/christin-kardos/testing/index.html</link>
             <guid isPermaLink="false">22354aec-eb9e-4cfd-a75d-dbcc6f011cf0</guid>
             <pubDate>Sat, 19 Dec 2015 16:31:32 GMT</pubDate>
