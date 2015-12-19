@@ -1,7 +1,7 @@
 name: Christin Kardos
 favicon: null
-layout_spectrum: 0.42529
-typography_spectrum: 0.49347
+layout_spectrum: 0.88526
+typography_spectrum: 0.0901
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f4efe9'
-    - '#050100'
-    - '#34b686'
-    - '#e3b198'
-    - '#50352e'
+    - '#bec7d0'
+    - '#000000'
+    - '#8d9444'
+    - '#fffffd'
+    - '#880006'
   brandStrength: 0.375
   lightness: 0.7729063401930034
   saturation: 0.5
