@@ -43,8 +43,8 @@ description: 'Join @rachelloumiller, @vincenzolandino & me for #SBizHour Mon @ 4
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/christinkardos/status/680171496237576192'
-datePublished: '2015-12-24T23:43:33.172Z'
-dateModified: '2015-12-24T23:42:49.667Z'
+datePublished: '2015-12-24T23:44:11.844Z'
+dateModified: '2015-12-24T23:43:33.172Z'
 title: ''
 sourcePath: _posts/2015-12-24-join-rachelloumiller-vincenzolandino-and-me-for-sbizhour-m.md
 published: true
