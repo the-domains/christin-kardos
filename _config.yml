@@ -1,7 +1,7 @@
 name: Christin Kardos
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.91973
+layout_spectrum: 1
+typography_spectrum: 0.75477
 title: 'Christin Kardos: Digital Cheerleader'
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#880006'
   brandStrength: 0.125
   lightness: 0.75
-  saturation: 0.25
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
