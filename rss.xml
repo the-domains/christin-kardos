@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Christin Kardos: Digital Cheerleader]]></title>
         <description><![CDATA[Christin Kardos: Digital Cheerleader]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christin-kardos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 01:34:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 01:34:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christin-kardos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined88fe4cde-bf6e-457c-8cbb-e0e9328d36bf/index.html</link>
+            <description><![CDATA[<p>This is just for testing.</p>]]></description>
+            <link>https://thegrid.ai/christin-kardos/88fe4cde-bf6e-457c-8cbb-e0e9328d36bf/index.html</link>
             <guid isPermaLink="false">88fe4cde-bf6e-457c-8cbb-e0e9328d36bf</guid>
-            <pubDate>Mon, 29 Feb 2016 01:33:53 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 01:34:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
